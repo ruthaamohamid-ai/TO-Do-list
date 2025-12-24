@@ -12,6 +12,7 @@ This project is a terminal-based To-Do List application written in Python. It al
 
 ## Technologies Used
 - Python
+- PyCharm
 - File I/O
 - Lists and loops
 - Command-line interface (CLI)
